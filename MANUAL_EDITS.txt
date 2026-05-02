@@ -5,3 +5,5 @@ CWISE_J145224.87-382806.8_moca_oid_572873_spt_unknown_spt_spherex_spectrum.csv
 remove a singlw pointr 1.0941177000157973 from
 2MASS_J143221382336325_moca_oid_1591890_spt_M8.8_spherex_spectrum.csv 
 
+remove a sinfglw point 0.7658823562509873 from
+2MASS_J20482105-4208190_moca_oid_1611669_spt_L2.1_spherex_spectrum.csv
