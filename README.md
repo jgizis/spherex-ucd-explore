@@ -11,3 +11,20 @@ MANUAL_EDITS.txt is a record of some minor edits to the original Zenodo files
 
 spiff_known_pca is notebook with simple Principal Components Analysis PCA
 
+We also compare to models
+
+rebin_diamondback
+rebin_ATMO2020
+
+rebins the model synthetic spectra as distributed by original authors to
+   match SPIFF
+
+and then
+read_diamondback
+etc. reads these files and makes a 2-D array, pickle just like SPIFF Data
+
+applt_PCA_to_models
+uses the PCA analysis on the actual data to plot the models
+
+
+
